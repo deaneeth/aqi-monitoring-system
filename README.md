@@ -1,6 +1,8 @@
-# Air Quality Monitoring Dashboard
+# 💨 Air Quality Monitoring Dashboard
 
 A comprehensive web-based platform for monitoring air quality data in the Colombo Metropolitan Area. This system provides real-time Air Quality Index (AQI) visualization through interactive maps and role-based access control for different user types.
+
+![Public Map Page with Sensors](assets/Public_map_page_with_sensors.png)
 
 ## 🌟 Features
 
@@ -57,8 +59,8 @@ A comprehensive web-based platform for monitoring air quality data in the Colomb
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/air-quality-monitoring-dashboard.git
-   cd air-quality-monitoring-dashboard
+   git clone https://github.com/deaneeth/aqi-monitoring-system
+   cd aqi-monitoring-system
    ```
 
 2. **Install PHP dependencies**
@@ -109,6 +111,10 @@ A comprehensive web-based platform for monitoring air quality data in the Colomb
    ```
 
 ## 🧪 Testing
+
+### Testing Coverage
+![Unit Tests](assets/Unit_Test.png)
+*Comprehensive PHPUnit testing suite ensuring code quality and reliability*
 
 ### Unit Tests
 Run individual component tests:
@@ -208,6 +214,27 @@ This project was developed as part of the Software Development Tools and Practic
 - Geographic information systems
 - Software testing methodologies
 - Version control and collaborative development
+
+## 📸 Screenshots
+
+### Public Map Interface
+![Public Map](assets/Public_map_page_with_sensors.png)
+*Interactive map showing real-time AQI data with color-coded markers for different pollution levels*
+
+### Admin Dashboard
+![Admin Dashboard](assets/Admin_Dashboard.png)
+*Comprehensive admin interface with system overview, alerts, and quick access to management tools*
+
+### Sensor Management
+![Sensor Management](assets/Sensor_Management_Page.png)
+*Intuitive interface for managing air quality sensors, including location data and status monitoring*
+
+### System Administration
+![System Admin Dashboard](assets/System_Admin_Dashboard.png)
+*Advanced system diagnostics and configuration panel for system administrators*
+
+
+> 📋 **View all screenshots and detailed interface documentation in [SCREENSHOTS.md](SCREENSHOTS.md)**
 
 ## 📞 Support
 
