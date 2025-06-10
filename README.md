@@ -194,21 +194,9 @@ The application is fully responsive and tested across:
 - Tablet devices
 - Mobile phones
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🎓 Academic Context
 
-This project was developed as part of the Software Development Tools and Practices (PUSL2020) module, demonstrating practical application of:
+This project was developed as part of the Software Development Tools and Practices module, demonstrating practical application of:
 - Full-stack web development
 - Real-time data simulation
 - Geographic information systems
@@ -235,6 +223,19 @@ This project was developed as part of the Software Development Tools and Practic
 
 
 > 📋 **View all screenshots and detailed interface documentation in [SCREENSHOTS.md](SCREENSHOTS.md)**
+
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
